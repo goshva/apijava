@@ -1,0 +1,4 @@
+com/example/demo/service/ApiServiceTest.class
+com/example/demo/model/MessageTest.class
+com/example/demo/DemoApplicationTests.class
+com/example/demo/controller/ApiControllerTest.class
